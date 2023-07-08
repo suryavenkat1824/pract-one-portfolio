@@ -10,7 +10,7 @@ import tailwind from "../assets/tailwind.png";
 import bootstrap from "../assets/bootstrap2.png";
 import mysql from "../assets/mysql.png";
 import nodejs from "../assets/nodejs.png";
-import express from "../assets/express.jpg";
+
 const Experience = () => {
 
     const techs=[
