@@ -5,7 +5,7 @@ import { Link } from 'react-scroll';
 function Home() {
   return (
     <div name="home"
-      class="h-auto w-full bg-gradient-to-b from-black via-black to-gray-800 ">
+      class="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 ">
       <div class="max-w-screen-lg  mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div class="flex flex-col justify-center h-full">
           <h2 class="text-4xl sm:text-7xl font-bold text-white">
