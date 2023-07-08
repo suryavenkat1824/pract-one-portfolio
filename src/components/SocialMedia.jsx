@@ -63,8 +63,9 @@ const links=[
                 class="flex justify-between items-center w-full text-white"
                 download={download}
                  target='_blank'
-                 rel="nonreferrer">
-
+                 rel="noreferrer"
+                 >
+        
                         {child}
                 </a>
             </li>
