@@ -57,8 +57,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: wayfinder,
-      demoLink: "https://way-finder.netlify.app/",
-      codeLink: "https://github.com/suryavenkat1824/Way-Finder",
+      demoLink: "https://way-finder-1824.netlify.app/",
+      codeLink: "https://github.com/suryavenkat1824/WayFinder",
     },
   ];
 
