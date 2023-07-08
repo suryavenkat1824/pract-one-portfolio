@@ -3,7 +3,7 @@ import React from 'react'
 const Contacts = () => {
   return (
    <div name="contact"
-   class="w-full h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white">
+   class="w-full h-auto bg-gradient-to-b from-black to-gray-800 p-4 text-white">
    <div class=" flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
     <div class="pb-8">
         <p class="text-4xl font-bold inline border-b-4 border-gary-500">
