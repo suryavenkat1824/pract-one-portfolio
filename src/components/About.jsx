@@ -10,22 +10,20 @@ const About = () => {
                 About</p>
             </div>
             <p class="text-xl mt-20">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+           I'm Kesarapu Surya Venkat, a web developer and competitive programming enthusiast pursuing 
+             Bachelor of Technology in Computer Science and Engineering at NIT Silchar.
+              I have a passion for creating visually appealing interfaces and excelling in data structures and algorithms.
+               I'm committed to continuous learning and aspire to make a lasting impact in the tech industry by delivering innovative 
+              solutions and exceptional user experiences.
             </p>
             <br>
             </br>
             <p class="text-xl">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        With a strong drive for growth, I am focused on refining my backend skills and coding abilities. 
+            I am particularly interested in data handling, server-side technologies, and databases
+             to develop robust web solutions. My passion for competitive programming motivates me to solve 
+             complex challenges and contribute cutting-edge solutions. Each skill acquired brings me closer to
+              my goal of creating creative web development projects that leave a mark in the tech world.
             </p>
         </div>
     </div>
