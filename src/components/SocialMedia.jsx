@@ -44,7 +44,7 @@ const links=[
                         <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill>
             </>
         ),
-        href:'/RESUME.pdf',
+        href:'/KESARAPU_SURYA_VENKAT_RESUME.pdf',
         style:'rounded-br-md',
         download:true,
     },
