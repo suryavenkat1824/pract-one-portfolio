@@ -10,7 +10,9 @@ import tailwind from "../assets/tailwind.png";
 import bootstrap from "../assets/bootstrap2.png";
 import mysql from "../assets/mysql.png";
 import nodejs from "../assets/nodejs.png";
-
+import mongodb from "../assets/MongoDB.jpg"
+import express from "../assets/express.png";
+import typescript from "../assets/TypeScript.jpeg"
 const Experience = () => {
 
     const techs=[
@@ -69,12 +71,24 @@ const Experience = () => {
             title:'NODE JS',
             style:'shadow-green-500',
          },
-         // {
-         //    id:10,
-         //    src:express,
-         //    title:'EXPRESS JS',
-         //    style:'shadow-gray-500',
-         // },
+         {
+            id:10,
+            src:express,
+            title:'EXPRESS JS',
+            style:'shadow-gray-500',
+         },
+         {
+            id:11,
+            src:mongodb,
+            title:'MongoDb',
+            style:'shadow-green-500'
+         },
+         {
+            id:12,
+            src:typescript,
+            title:'TypeScript',
+            style:'shadow-blue-500'
+         }
     ];
    
 
