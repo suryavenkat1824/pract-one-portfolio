@@ -43,23 +43,51 @@
 
 
 import React from "react";
-import keepsafe from "../assets/portfolio/keepsafe.png";
-import wayfinder from "../assets/portfolio/wayfinder.png";
-
+import keepsafe from "../assets/portfolio/KeppSafe.png";
+import wayfinder from "../assets/portfolio/WayFinder.png";
+import Foodie from "../assets/portfolio/Foodie.png";
+import FoodieVendor from "../assets/portfolio/Foodie Vendor.png";
+import FitnessHub from "../assets/portfolio/Fitness-Hub.png";
+import GIFHUb from "../assets/portfolio/GIF-Hub.png";
 const Portfolio = () => {
   const portfolios = [
     {
-      id: 1,
+      id:1,
+      src:Foodie,
+      demoLink:"https://foodie-nu-brown.vercel.app/",
+      codeLink:"https://github.com/suryavenkat1824/Foodie"
+    },
+    {
+      id:2,
+      src:FoodieVendor,
+      demoLink:"https://vendor-dash-board.vercel.app/",
+      codeLink:"https://github.com/suryavenkat1824/Vendor_DashBoard"
+    },
+    {
+      id: 3,
+      src: wayfinder,
+      demoLink: "https://way-finder-1824.netlify.app/",
+      codeLink: "https://github.com/suryavenkat1824/WayFinder",
+    },
+    {
+     id:4,
+      src:FitnessHub,
+      demoLink:"https://fitness-hub7.netlify.app/",
+      codeLink:"https://github.com/suryavenkat1824/Fitness-Hub"
+    },
+    {
+      id: 5,
       src: keepsafe,
       demoLink: "https://suryavenkat1824.github.io/Keep-Safe/",
       codeLink: "https://github.com/suryavenkat1824/Keep-Safe",
     },
     {
-      id: 2,
-      src: wayfinder,
-      demoLink: "https://way-finder-1824.netlify.app/",
-      codeLink: "https://github.com/suryavenkat1824/WayFinder",
-    },
+      id:6,
+      src:GIFHUb,
+      demoLink:"https://gif-hub7.netlify.app/",
+      codeLink:"https://github.com/suryavenkat1824/GIF-HUB"
+    }
+
   ];
 
   return (
